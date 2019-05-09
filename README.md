@@ -1,6 +1,3 @@
-# pfc-firmware
-This repository contains official Wago firmware releases for 750-8xxx(PFC) series.
-
 <div style="text-align: left" >
 <img src="images/pfcs.png"
      alt="install docker" width="500"/>
