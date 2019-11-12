@@ -14,4 +14,4 @@ WAGO recommends exclusive use of original WAGO SD cards, as the new firmware has
 4. Adjust the static IP address with "Wago Ethernet Settings".
 5. Due to changes in the WebBasedManagement (WBM), make sure to delete the full browser cache (!) and restart the browser after.
 6. Open "WebBasedManagement / Administrations – Menue / Create Image // Create bootable image from active partition (SD) // Start Copy".
-7. WAGO Ethernet settings is at least required in version 6.8.2.2. To download this version, click following link: https://wago.sharefile.eu/d-s6d218ea736c4918a
+7. WAGO Ethernet settings is at least required in version 6.8.2.2. To download this version, click following link: https://wago.sharefile.eu/share/view/s7ceb2f61d474fcca
