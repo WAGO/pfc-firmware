@@ -8,7 +8,7 @@ WAGO recommends exclusive use of original WAGO SD cards, as the new firmware has
 
 ## Installation
 
-1. Delete full content of the card with the tool "Active@KillDisk" - to download click here: http://www.killdisk.com/downloads/KillDisk-Freeware-Setup.exe
+1. Delete full content of the card with tools like "DiskPart" or any other, google is your friend:)
 2. Write <a href="https://github.com/WAGO/pfc-firmware/releases" title="image">image</a> on the WAGO SD card with "Win32DiskImager" - to download click here: https://sourceforge.net/projects/win32diskimager/
 3. Plug-in the WAGO SD card first before booting the PFC100/200.
 4. Adjust the static IP address with "Wago Ethernet Settings".
