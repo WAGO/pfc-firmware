@@ -27,5 +27,5 @@ jobs:
         with:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repository: WAGO/e-runtime
-          event-type: build-trigger
+          event-type: release-event
           client-payload: '{"message": {"firmwareVersion": "${{ steps.tagName.outputs.tag }}"}}'
