@@ -28,4 +28,4 @@ jobs:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repository: WAGO/docker-image-builder
           event-type: e-runtime-release
-          client-payload: '{"message": {"firmwareVersion": "${{ steps.tagName.outputs.tag }}"}}'
+          client-payload: '{"message": {"tag": "${{ steps.tagName.outputs.tag }}"}}'
