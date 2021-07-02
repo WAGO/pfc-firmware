@@ -28,4 +28,4 @@ jobs:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repository: WAGO/application-image-builder
           event-type: pfc-firmware-released
-          client-payload: '{"message": {"tag": "${{ steps.tagName.outputs.tag }}"}}'
+          client-payload: '{"message": {"tag": "${{ steps.tagName.outputs.tag }}", "suffix": "-unstable"}}'
