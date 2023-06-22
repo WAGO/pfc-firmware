@@ -1,4 +1,4 @@
-name: Trigger eRuntime Image build
+name: Trigger plc runtime image build
 
 # Controls when the action will run. 
 on:
